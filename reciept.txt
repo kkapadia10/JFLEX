@@ -1,0 +1,16 @@
+         Geo Restaurant
+          305-864-5586
+           01/19/2013
+            10:53 PM
+
+Ferrari Carana              47.00
+Insalate Cesare              7.50
+  Caprese with prosciutto    9.50
+FISH SPEC                   25.95
+Spinach Ricotta Ravioli     15.95
+Seafood Pasta               19.95
+Ossobucco                   29.95
+
+Subtotal                   155.80
+Tax                         14.02
+Total                      169.82
